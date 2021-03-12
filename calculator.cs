@@ -82,7 +82,7 @@ namespace percobaan1
                     Console.ReadKey();
                     break;
                 default:
-                    Console.WriteLine("INPUT SALAH KEMBALI KE MENU UTAMA");
+                    Console.WriteLine("MAAF INPUT SALAH");
                     Console.ReadKey();
                     break;
 
